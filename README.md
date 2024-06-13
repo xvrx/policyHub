@@ -1,3 +1,3 @@
 # Policyhub
 
-[title-logo](/assets/polhub.png)
+![title-logo](/assets/polhub.png)
